@@ -29,7 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:HDMI-to-MIPI
-LIBS:LH550WF1-breakout-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
