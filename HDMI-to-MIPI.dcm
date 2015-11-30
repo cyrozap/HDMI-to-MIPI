@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TFP403
+D TI TFP403 PanelBus DVI Receiver
+F http://www.ti.com/lit/ds/symlink/tfp403.pdf
+$ENDCMP
+#
 #End Doc Library
