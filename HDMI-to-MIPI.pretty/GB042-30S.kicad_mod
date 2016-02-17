@@ -3,7 +3,7 @@
   (fp_text reference P1 (at 0 -3.5) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value LH550WF1 (at 0 4) (layer F.SilkS)
+  (fp_text value GB042-30S (at 0 4) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start -4.3 -1.75) (end -3.3 -1.75) (layer F.SilkS) (width 0.1))
