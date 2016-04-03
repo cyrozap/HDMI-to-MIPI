@@ -29,8 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:HDMI-to-MIPI
-LIBS:stm32
-LIBS:SSD2828QN4-breakout-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
