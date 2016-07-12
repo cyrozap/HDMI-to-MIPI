@@ -217,7 +217,7 @@
     (add_net "Net-(R3-Pad1)")
   )
 
-  (module HDMI-to-MIPI:SSD2828QN4 (layer F.Cu) (tedit 57080ACC) (tstamp 57366BB1)
+  (module miscellaneous:SSD2828QN4 (layer F.Cu) (tedit 57080ACC) (tstamp 57366BB1)
     (at 168.72 109.83)
     (path /56A049F1)
     (solder_mask_margin 0.02)
@@ -923,7 +923,7 @@
       (net 3 /CLK2))
   )
 
-  (module HDMI-to-MIPI:TE_3-1734592-0 (layer F.Cu) (tedit 0) (tstamp 574A5DD0)
+  (module connectors:TE_3-1734592-0 (layer F.Cu) (tedit 0) (tstamp 574A5DD0)
     (at 194.769 109.444 90)
     (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1734592&DocType=Customer+Drawing&DocLang=English)
     (path /5701FD89)

@@ -202,7 +202,7 @@
     )
   )
 
-  (module HDMI-to-MIPI:GB042-30S (layer B.Cu) (tedit 564AA95A) (tstamp 564AA295)
+  (module connectors:GB042-30S (layer B.Cu) (tedit 564AA95A) (tstamp 564AA295)
     (at 148.59 107.95 90)
     (descr http://www.lsmtron.com/pdf/LS%20Mtron%20Connector.pdf)
     (path /564A9D79)

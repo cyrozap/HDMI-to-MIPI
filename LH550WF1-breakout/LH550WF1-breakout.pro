@@ -1,4 +1,4 @@
-update=Mon 16 Nov 2015 09:57:47 PM EST
+update=Tue 12 Jul 2016 12:48:29 AM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=../HDMI-to-MIPI
+LibName30=../library/displays
