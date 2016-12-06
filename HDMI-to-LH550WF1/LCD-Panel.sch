@@ -61,25 +61,25 @@ F 3 "" H 7800 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text HLabel 7000 4000 0    60   Input ~ 0
-DATA3P
+DATA3_P
 Text HLabel 7000 4100 0    60   Input ~ 0
-DATA3N
+DATA3_N
 Text HLabel 7000 3400 0    60   Input ~ 0
-DATA2P
+DATA2_P
 Text HLabel 7000 3500 0    60   Input ~ 0
-DATA2N
+DATA2_N
 Text HLabel 7000 3700 0    60   Input ~ 0
-CLKP
+CLK_P
 Text HLabel 7000 3800 0    60   Input ~ 0
-CLKN
+CLK_N
 Text HLabel 8900 3800 2    60   Input ~ 0
-DATA1N
+DATA1_N
 Text HLabel 8900 3700 2    60   Input ~ 0
-DATA1P
+DATA1_P
 Text HLabel 8900 4000 2    60   Input ~ 0
-DATA0P
+DATA0_P
 Text HLabel 8900 4100 2    60   Input ~ 0
-DATA0N
+DATA0_N
 Text HLabel 8900 3500 2    60   Input ~ 0
 RESET
 $Comp
