@@ -275,9 +275,9 @@ F 3 "" H 3600 6100 50  0000 C CNN
 	1    3600 6100
 	1    0    0    -1  
 $EndComp
-Text Label 1500 6900 0    60   ~ 0
+Text Label 1500 6800 0    60   ~ 0
 SCL
-Text Label 1500 7000 0    60   ~ 0
+Text Label 1500 6700 0    60   ~ 0
 SDA
 $Comp
 L R_Small R26
@@ -411,9 +411,9 @@ F 3 "" H 4300 7200 50  0000 C CNN
 	1    4300 7200
 	0    -1   -1   0   
 $EndComp
-Text Label 1500 6700 0    60   ~ 0
+Text Label 1500 7000 0    60   ~ 0
 BR_INT
-Text Label 1500 6800 0    60   ~ 0
+Text Label 1500 6900 0    60   ~ 0
 BR_RST_N
 Text Label 2700 3500 0    60   ~ 0
 BR_RST_N
