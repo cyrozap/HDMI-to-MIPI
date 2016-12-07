@@ -49,13 +49,13 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 3000 6800 2    60   Input ~ 0
-BRIDGE_RESET_N
 Text HLabel 3000 6900 2    60   Input ~ 0
+BRIDGE_RESET_N
+Text HLabel 3000 6800 2    60   Input ~ 0
 BRIDGE_SCL
-Text HLabel 3000 7000 2    60   Input ~ 0
-BRIDGE_SDA
 Text HLabel 3000 6700 2    60   Input ~ 0
+BRIDGE_SDA
+Text HLabel 3000 7000 2    60   Input ~ 0
 BRIDGE_INT
 Text HLabel 5800 6700 2    60   Input ~ 0
 PANEL_RESET
