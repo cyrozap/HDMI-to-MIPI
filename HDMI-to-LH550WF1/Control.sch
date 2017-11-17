@@ -35,6 +35,7 @@ LIBS:bridge-ics
 LIBS:oscillators
 LIBS:voltage-regulators
 LIBS:connectors
+LIBS:HDMI-to-LH550WF1-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
